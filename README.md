@@ -3,7 +3,7 @@ IterSectionInfo
 This python library gets the basic public information about 2019 batch students
 
 How to use
-first download this library into your working directory git clone https://github.com/MartyMiniac/IterSectionInfo.git
+first download this library into your working directory git clone https://github.com/Zeo-shark/IterStudentInfo.git
 
 Import the library
 from iterSectionInfo import Info
